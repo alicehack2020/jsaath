@@ -1,9 +1,28 @@
 {
-  "posts":[
+  "video":[
     {
-      "id" : 0,
+      "id" : 1,
       "title": "First post!",
-      "content" : "My first content!"
+      "VideoLink" : "My first content!",
+      "imageLink":""
+    },
+    {
+      "id" : 2,
+      "title": "First post!",
+      "VideoLink" : "My first content!",
+      "imageLink":""
+    },
+    {
+      "id" : 3,
+      "title": "First post!",
+      "VideoLink" : "My first content!",
+      "imageLink":""
+    },
+    {
+      "id" : 4,
+      "title": "First post!",
+      "VideoLink" : "My first content!",
+      "imageLink":""
     }
   ]
 }
